@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
+	<children>
+		<child name="Redactor" key="{F09042A9-1868-4232-9B1E-E1C7BE4108B5}" path="Redactor.tcKDTest" />
+		<child name="TreeList" key="{0A05D80C-EE77-40C4-9E79-A238EFF80C63}" path="TreeList.tcKDTest" />
+		<child name="PivotGrid" key="{B13BD511-29DC-4C61-9824-6D50BBEE33AA}" path="PivotGrid.tcKDTest" />
+	</children>
+</Root>
